@@ -1,0 +1,1 @@
+{!! Form::select('sub_category_id', [''=>'-'] + $subCategoryLists , null,  ["class" => 'form-control input-sm select2', "id"=>"ddl_sub_category_id", "autocomplete" => "off","style"=>"width:100%"]) !!}

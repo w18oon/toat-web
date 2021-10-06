@@ -1,0 +1,20 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+// @import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+// @import url("//unpkg.com/element-ui@1.4.2/lib/theme-default/index.css");
+
+
+// Additional
+@import "ie/custom/policy";
+@import "ie/custom/recipt";
+@import "ie/app";

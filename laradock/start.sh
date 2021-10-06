@@ -1,0 +1,1 @@
+docker-compose up workspace caddy laravel-horizon redis
